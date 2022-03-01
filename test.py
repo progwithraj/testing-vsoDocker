@@ -1,5 +1,3 @@
- # /opt/python/latest/bin/pip3 list
-
 import requests
 
 import pyspark
